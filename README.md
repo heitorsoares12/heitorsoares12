@@ -13,7 +13,6 @@
   <img align="center" alt="Heitor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Heitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-  <img align="right" alt="Heitor-pic" height="150" style="border-radius:50px;" src="![67597601_2170500903078176_6552622649053282304_n](https://user-images.githubusercontent.com/83045002/158216294-94406f3b-6e8a-4580-97b2-39772fa64405.jpg)">
 </div>
  
 
