@@ -13,9 +13,10 @@
   <img align="center" alt="Heitor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Heitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-  <img align="right" alt="Heitor-pic" height="150" style="border-radius:50px;" src="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/67597601_2170500903078176_6552622649053282304_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=84a396&_nc_eui2=AeG1H80JuzAI821KQyC2dbuCF3F1E9KuPGwXcXUT0q48bLQr_lkMxqyalvLc5Pzyd1q29cvs5asJFwO8iY9MNfNo&_nc_ohc=Y36bbWz8bbQAX8ilX4S&_nc_ht=scontent-gru2-2.xx&oh=00_AT-tpUrxa3MvhiFJLmznMdt5oBZ1pKtfD7M05O-0SG8Cog&oe=6226A19C">
+  <img align="right" alt="Heitor-pic" height="150" style="border-radius:50px;" src="![67597601_2170500903078176_6552622649053282304_n](https://user-images.githubusercontent.com/83045002/158216294-94406f3b-6e8a-4580-97b2-39772fa64405.jpg)">
 </div>
-  
+ 
+
   ##
  
 <div> 
