@@ -1,11 +1,6 @@
 <div align="center"> 
   <img height="180em" src="https://user-images.githubusercontent.com/83045002/176731632-c8e943b1-84ab-4ccd-8464-11a74e472caf.png"/>
 </div><br>
-<div align="center">
-  <a href="https://github.com/heitorsoares12">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=heitorsoares12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorsoares12&layout=compact&langs_count=7&theme=dark"/>
-</div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Heitor-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Heitor-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
