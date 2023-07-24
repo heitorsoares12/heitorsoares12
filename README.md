@@ -1,6 +1,9 @@
 <div align="center"> 
   <img height="180em" src="https://user-images.githubusercontent.com/83045002/176731632-c8e943b1-84ab-4ccd-8464-11a74e472caf.png"/>
 </div><br>
+<div align="center">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=heitorsoares12&repo=heitorsoares12&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=8000FF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Heitor" height="28px" />
+</div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Heitor-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Heitor-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
@@ -22,6 +25,8 @@
      <a href="https://github.com/heitorsoares12"></a>
      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heitorsoares12&hide_border=true&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> &nbsp;
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorsoares12&layout=compact&count_private=true&hide_border=true&theme=midnight-purple&show_icons=true">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=heitorsoares12&theme=midnight-purple&hide_border=true" alt="murilonicemento" />
+  
 </div>
 
 ##
@@ -30,6 +35,7 @@
   <a href="https://www.instagram.com/heitor.soaress" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:heitor.soaress@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/heitor-alexandre-soares-444b97191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
  
   ![Snake animation](https://github.com/heitorsoares12/heitorsoares12/blob/output/github-contribution-grid-snake.svg)
  
