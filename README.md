@@ -1,9 +1,9 @@
 <div align="center"> 
   <img height="180em" src="https://user-images.githubusercontent.com/83045002/176731632-c8e943b1-84ab-4ccd-8464-11a74e472caf.png"/>
 </div><br>
-<div align="center">
+<!-- <div align="center">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=heitorsoares12&repo=heitorsoares12&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=8000FF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Heitor" height="28px" />
-</div>
+</div> -->
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Heitor-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Heitor-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
@@ -37,6 +37,6 @@
   <a href="https://www.linkedin.com/in/heitor-alexandre-soares-444b97191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  
-  ![Snake animation](https://github.com/heitorsoares12/heitorsoares12/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
