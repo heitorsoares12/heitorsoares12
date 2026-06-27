@@ -1,9 +1,3 @@
-<div align="center">
-  <img
-    height="180em"
-    src="https://user-images.githubusercontent.com/83045002/176731632-c8e943b1-84ab-4ccd-8464-11a74e472caf.png"
-  />
-</div>
 
 <h1 align="center">Heitor Soares</h1>
 <h3 align="center">Java/Spring Boot & React Native Developer | Mobile + Backend</h3>
